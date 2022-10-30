@@ -1,0 +1,9 @@
+com\lazarev\game\consolegame\Player.class
+com\lazarev\game\consolegame\Game.class
+com\lazarev\game\consolegame\Empty.class
+com\lazarev\game\consolegame\Field.class
+com\lazarev\game\consolegame\Fieldable.class
+com\lazarev\game\consolegame\Enemy.class
+com\lazarev\game\consolegame\Main.class
+com\lazarev\game\consolegame\OptionsMenu.class
+com\lazarev\game\consolegame\CheckPoint.class
